@@ -1,9 +1,5 @@
 # Neo4rs [![CI Status][ci-badge]][ci-url]  [![Crates.io][crates-badge]][crates-url]
 
-[ci-badge]: https://github.com/neo4j-labs/neo4rs/actions/workflows/checks.yml/badge.svg
-[ci-url]: https://github.com/neo4j-labs/neo4rs
-[crates-badge]: https://img.shields.io/crates/v/neo4rs.svg?style=shield
-[crates-url]: https://crates.io/crates/neo4rs
 [docs-badge]: https://img.shields.io/badge/docs-latest-blue.svg?style=shield
 [docs-url]: https://docs.rs/neo4rs
 
